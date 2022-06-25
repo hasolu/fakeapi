@@ -12,5 +12,52 @@
     { "id": 10, "name": "Kerem", "lname": "Aktürkoğlu", "age": 23 },
     { "id": 11, "name": "Mbaye", "lname": "Diagne", "age": 30 },
     { "id": 12, "name": "HSL", "lname": "HSL", "age": 28 }
+  ],
+   "Products": [
+    {
+      "id": "HBCV00000ODHHO",
+      "name": "iPhone 13 128 GB",
+      "mark": "Apple",
+      "price": 20.799,
+      "metadesc": "iPhone 13 128 GB en iyi fiyatla Hepsiburada&amp;#39;dan satın alın! Şimdi indirimli fiyatla online sipariş verin, iPhone 13 128 GB ayağınıza gelsin!",
+      "desc": "Donec nisl quam, posuere ut arcu a, rutrum scelerisque arcu. Proin rhoncus velit sem, et tincidunt purus vehicula vulputate. Donec in auctor tellus. Integer lacinia cursus tellus, eu commodo lacus viverra vel. Quisque volutpat enim ante, et luctus lorem pharetra eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque at lorem non mauris ultricies posuere. Sed egestas fermentum diam vel consequat. Nulla rhoncus velit velit, a pretium urna elementum at. Sed eget est quis quam lobortis tempor. Fusce in felis sed tellus tempor dapibus. Sed mi turpis, sodales ac dapibus posuere, dictum a nibh.",
+      "images": [
+        "https://productimages.hepsiburada.net/s/189/550/110000155170588.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/189/550/110000155170589.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/189/550/110000155170590.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/189/550/110000155170591.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/189/550/110000155170592.jpg/format:webp"
+      ]
+    },
+    {
+      "id": "hbv0000120x65",
+      "name": "iPhone 11 64 GB",
+      "mark": "Apple",
+      "price": 13.199,
+      "metadesc": "iPhone 11 64 GB en iyi fiyatla Hepsiburada&amp;#39;dan satın alın! Şimdi indirimli fiyatla online sipariş verin, iPhone 11 64 GB ayağınıza gelsin!",
+      "desc": "Aenean ac nulla augue. In a dui eros. Maecenas dictum eu nibh sed sodales. Sed fringilla laoreet auctor. Duis finibus, mi vitae malesuada aliquet, neque tortor sodales nisl, at euismod turpis diam eget purus. In vitae mauris eleifend, volutpat arcu sit amet, lobortis metus. Aenean a nulla et tortor iaculis fringilla vel id est. Mauris sed eros et elit vulputate convallis.",
+      "images": [
+        "https://productimages.hepsiburada.net/s/49/550/10986386784306.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/49/550/10986386817074.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/49/550/10986386849842.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/49/550/10986386882610.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/49/550/10986386915378.jpg/format:webp"
+      ]
+    },
+    {
+      "id": "HBCV00000BDM1W",
+      "name": "Lenovo IdeaPad Gaming 3 AMD Ryzen 5 5600H 8GB 512GB SSD GTX1650 Freedos 15.6 FHD Taşınabilir Bilgisayar 82K200K3TX",
+      "mark": "Lenovo",
+      "price": 13.499,
+      "metadesc": "Lenovo IdeaPad Gaming 3 AMD Ryzen 5 5600H 8GB 512GB SSD en iyi fiyatla Hepsiburada&amp;#39;dan satın alın! Şimdi indirimli fiyatla sipariş verin, ayağınıza gelsin!",
+      "desc": "Donec nec nibh sit amet felis tempus elementum interdum sit amet orci. Suspendisse potenti. Nullam nibh ligula, gravida a dapibus vitae, posuere ut dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque sit amet felis a mi vulputate vulputate. Donec lorem felis, eleifend quis congue a, consectetur at odio. Fusce nec ligula nec nisi accumsan efficitur",
+      "images": [
+        "https://productimages.hepsiburada.net/s/170/550/110000133549306.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/191/550/110000158376994.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/170/550/110000133549305.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/170/550/110000133549307.jpg/format:webp",
+        "https://productimages.hepsiburada.net/s/191/550/110000158376995.jpg/format:webp"
+      ]
+    }
   ]
 }
