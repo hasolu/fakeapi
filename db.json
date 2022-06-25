@@ -15,7 +15,7 @@
   ],
    "Products": [
     {
-      "id": "HBCV00000ODHHO",
+      "id": "hbcv00000odhho",
       "name": "iPhone 13 128 GB",
       "mark": "Apple",
       "price": 20799,
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "id": "HBCV00000BDM1W",
+      "id": "hbcv00000bdm1w",
       "name": "Lenovo IdeaPad Gaming 3 AMD Ryzen 5 5600H 8GB 512GB SSD GTX1650 Freedos 15.6 FHD Taşınabilir Bilgisayar 82K200K3TX",
       "mark": "Lenovo",
       "price": 13499,
