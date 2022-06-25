@@ -10,7 +10,7 @@
     { "id": 8, "name": "Alexandru", "lname": "Cicâldău", "age": 24 },
     { "id": 9, "name": "Olimpiu ", "lname": "Moruţan", "age": 22 },
     { "id": 10, "name": "Kerem", "lname": "Aktürkoğlu", "age": 23 },
-    { "id": 11, "name": "Mbaye", "lname": "Diagne", "age": 30 }
+    { "id": 11, "name": "Mbaye", "lname": "Diagne", "age": 30 },
     { "id": 12, "name": "HSL", "lname": "HSL", "age": 28 }
   ]
 }
